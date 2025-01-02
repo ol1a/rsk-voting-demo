@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { ethers } from 'ethers';
 import VotingABI from '../Voting.json';
 
-const contractAddress = "0xbAd4c3c11B30A2626b7007fef92286576C27B3c6";
+const contractAddress = "0xE1D90717FeFA073ABDC1355213c0Bcbba781DBF0";
 let provider;
 let votingContract;
 let signer;
